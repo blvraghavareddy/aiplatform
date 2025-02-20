@@ -29,7 +29,7 @@ feature_weights = {
 # Modify the email_alert function to accept parameters
 def email_alert(username, date, severity_percentage, symptoms):
     email_sender = "99220040028@klu.ac.in"
-    email_password = "moiv ntzb pxkf iyql"
+    email_password = "enil xnjy hgnv msdn"
     email_recipient = "99220040061@klu.ac.in"
     subject = f"Asthma Alert for the Patient! {username}"
     body = f"""
