@@ -28,7 +28,7 @@ def email_alert(username, date, severity_percentage, symptoms, other_diseases):
         return  # No need to send an email if severity is below 60%
 
     email_sender = "99220040028@klu.ac.in"
-    email_password = "enil xnjy hgnv msdn"  # Use environment variable for security
+    email_password = "lgbn baeq sqom sptw"  # Use environment variable for security
     email_recipient = "99220040061@klu.ac.in"
     subject = f"Asthma Alert for {username}"
 
