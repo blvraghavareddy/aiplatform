@@ -3,3 +3,4 @@ google-generativeai
 google-cloud-aiplatform
 tensorflow
 streamlit_lottie
+protobuf==3.20.3
